@@ -54,7 +54,7 @@
         name="xdmod-introspection"
         groups="introspection"
         remote="gmdean"
-        revision="xdmod10.0"
+        revision="master"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/introspection" />
     </project>
