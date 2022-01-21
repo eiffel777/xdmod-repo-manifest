@@ -5,11 +5,6 @@
         alias="upstream"
         fetch="ssh://git@github.com/ubccr"
     />
-    <remote
-        name="gmdean"
-        alias="upstream"
-        fetch="ssh://git@github.com/eiffel777"
-    />
     <default
         remote="ubccr"
         revision="xdmod10.0"
@@ -53,7 +48,6 @@
     <project
         name="xdmod-introspection"
         groups="introspection"
-        remote="gmdean"
         revision="master"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/introspection" />
