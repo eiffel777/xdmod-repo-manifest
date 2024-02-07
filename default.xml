@@ -8,7 +8,7 @@
     <remote
         name="gmdean"
         alias="gmdean"
-        fetch="git@github.com:eiffel777"
+        fetch="ssh://git@github.com/eiffel777"
     />
     <default
         remote="ubccr"
