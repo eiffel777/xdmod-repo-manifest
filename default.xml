@@ -60,7 +60,7 @@
     </project>
 
     <project
-        name="xdmod-xsede.git"
+        name="xdmod-xsede"
         groups="xsede"
         revision="add-resource-specs-realm"
         remote="gmdean"
