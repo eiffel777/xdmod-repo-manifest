@@ -38,12 +38,6 @@
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
-        name="xdmod-supremm"
-        groups="supremm"
-    >
-        <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
-    </project>
-    <project
         name="xdmod-ondemand"
         groups="ondemand"
         revision="main"
