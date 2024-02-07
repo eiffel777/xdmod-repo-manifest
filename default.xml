@@ -8,7 +8,7 @@
     <remote
         name="gmdean"
         alias="gmdean"
-        fetch="https://github.com/eiffel777"
+        fetch="git@github.com:eiffel777"
     />
     <default
         remote="ubccr"
@@ -60,7 +60,7 @@
     </project>
 
     <project
-        name="xdmod-xsede"
+        name="xdmod-xsede.git"
         groups="xsede"
         revision="add-resource-specs-realm"
         remote="gmdean"
