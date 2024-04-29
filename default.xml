@@ -5,6 +5,11 @@
         alias="upstream"
         fetch="https://github.com/ubccr"
     />
+    <remote
+        name="gmdean"
+        alias="gmdean"
+        fetch="ssh://git@github.com/eiffel777"
+    />
     <default
         remote="ubccr"
         revision="xdmod11.0"
@@ -57,6 +62,8 @@
     <project
         name="xdmod-xsede"
         groups="xsede"
+        remote="gmdean"
+        revision="update-jobs-statistics-utilization"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
