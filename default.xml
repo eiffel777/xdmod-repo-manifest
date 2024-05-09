@@ -63,7 +63,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="update-jobs-statistics-utilization"
+        revision="add-su-data-and-statistics"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
