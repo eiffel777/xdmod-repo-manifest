@@ -5,14 +5,9 @@
         alias="upstream"
         fetch="https://github.com/ubccr"
     />
-    <remote
-        name="gmdean"
-        alias="gmdean"
-        fetch="ssh://git@github.com/eiffel777"
-    />
     <default
         remote="ubccr"
-        revision="xdmod11.0"
+        revision="refs/tags/v8.6.0-rc.1"
     />
 
     <!--
@@ -46,24 +41,13 @@
     <project
         name="xdmod-ondemand"
         groups="ondemand"
-        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
     </project>
 
     <project
-        name="xdmod-introspection"
-        groups="introspection"
-        revision="main"
-    >
-        <linkfile src="." dest="xdmod/open_xdmod/modules/introspection" />
-    </project>
-
-    <project
         name="xdmod-xsede"
         groups="xsede"
-        remote="gmdean"
-        revision="add-su-data-and-statistics"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
