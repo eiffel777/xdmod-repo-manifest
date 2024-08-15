@@ -63,7 +63,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="add-su-data-and-statistics"
+        revision="update-resource-end-times"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
