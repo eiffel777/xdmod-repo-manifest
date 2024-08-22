@@ -63,7 +63,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="update-resource-end-times"
+        revision="add-public-endpoints"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
