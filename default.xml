@@ -23,7 +23,6 @@
     <project
         name="xdmod"
         groups="xdmod"
-        remote="gmdean"
     />
 
     <!--
@@ -62,6 +61,7 @@
     <project
         name="xdmod-xsede"
         groups="xsede"
+        remote="gmdean"
         revision="update-jetstream2-allocation-join"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
