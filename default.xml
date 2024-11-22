@@ -12,7 +12,7 @@
     />
     <default
         remote="ubccr"
-        revision="xdmod11.0"
+        revision="main"
     />
 
     <!--
@@ -62,7 +62,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="update-jetstream2-allocation-join"
+        revision="update-jetstream-instance-states"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
