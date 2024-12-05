@@ -28,6 +28,9 @@
     <project
         name="xdmod"
         groups="xdmod"
+        remote="gmdean"
+        revision="add-resource-pi-organization-columns-cloud"
+        
     />
 
     <!--
@@ -67,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="update-jetstream-instance-states"
+        revision="update-cloud-aggregation-organization-ids"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
