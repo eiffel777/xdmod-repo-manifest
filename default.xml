@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="main"
+        revision="remove-groupby-cloud-staging"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
