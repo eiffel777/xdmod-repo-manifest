@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="fix-batch-aggregation-delete"
+        revision="remove-groupby-cloud-staging"
         
     />
 
@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="remove-groupby-cloud-staging"
+        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
