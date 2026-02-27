@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="remove-groupby-cloud-staging"
+        revision="improve-delete-and-batch-temp-table-speed"
         
     />
 
@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="improve-delete-and-batch-temp-table-speed"
+        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
