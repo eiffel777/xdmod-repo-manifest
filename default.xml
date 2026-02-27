@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="main"
+        revision="improve-delete-and-batch-temp-table-speed"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
