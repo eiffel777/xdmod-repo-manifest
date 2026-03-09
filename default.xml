@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="add-n-flag-science-gateway-usage-ingestor"
+        revision="main"
         
     />
 
@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="main"
+        revision="add-n-flag-science-gateway-usage-ingestor"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
