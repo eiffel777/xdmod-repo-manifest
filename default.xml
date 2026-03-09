@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="improve-delete-and-batch-temp-table-speed"
+        revision="add-n-flag-science-gateway-usage-ingestor"
         
     />
 
