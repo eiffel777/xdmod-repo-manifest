@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="main"
+        revision="add-group-by-on-aggregate-table"
         
     />
 
