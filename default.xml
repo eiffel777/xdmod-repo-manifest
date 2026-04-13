@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="add-n-flag-science-gateway-usage-ingestor"
+        revision="add-cloud-migration-11-5"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
