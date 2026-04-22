@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="add-cloud-migration-11-5"
+        revision="move-disk-gb-dimension"
         
     />
 
