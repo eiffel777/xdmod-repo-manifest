@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="move-disk-gb-dimension"
+        revision="optimize-batch-aggreation-loading"
         
     />
 
