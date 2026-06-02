@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="optimize-batch-aggreation-loading"
+        revision="main"
         
     />
 
@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="main"
+        revision="add-raw-export-order"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
