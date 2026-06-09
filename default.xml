@@ -70,7 +70,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="add-raw-export-order"
+        revision="replace-min-job-id-subquery"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
