@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="add-session-write-close"
+        revision="add-strict-mode-connection"
         
     />
 
@@ -48,13 +48,14 @@
     <project
         name="xdmod-supremm"
         groups="supremm"
+        revision="strict-sql-mode-fixes"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
     <project
         name="xdmod-ondemand"
         groups="ondemand"
-        revision="main"
+        revision="strict-mode-sql-fixes"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
     </project>
@@ -70,7 +71,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="replace-min-job-id-subquery"
+        revision="sql_strict_mode_comapt"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
