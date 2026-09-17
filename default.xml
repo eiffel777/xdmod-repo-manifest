@@ -48,6 +48,7 @@
     <project
         name="xdmod-supremm"
         groups="supremm"
+        remote="gmdean"
         revision="strict-sql-mode-fixes"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
@@ -55,6 +56,7 @@
     <project
         name="xdmod-ondemand"
         groups="ondemand"
+        remote="gmdean"
         revision="strict-mode-sql-fixes"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
