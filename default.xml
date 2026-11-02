@@ -29,7 +29,7 @@
         name="xdmod"
         groups="xdmod"
         remote="gmdean"
-        revision="add-strict-mode-connection"
+        revision="main"
         
     />
 
@@ -49,7 +49,7 @@
         name="xdmod-supremm"
         groups="supremm"
         remote="gmdean"
-        revision="strict-sql-mode-fixes"
+        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
@@ -57,7 +57,7 @@
         name="xdmod-ondemand"
         groups="ondemand"
         remote="gmdean"
-        revision="strict-mode-sql-fixes"
+        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
     </project>
@@ -73,7 +73,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="gmdean"
-        revision="sql_strict_mode_comapt"
+        revision="add-sso-seesion-token"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
